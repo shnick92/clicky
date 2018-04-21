@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Car",
+    "image":
+      "https://s7.postimg.cc/6lmb5zu23/noun_1033327_cc.png",
+    "occupation": "Fry Cook",
+    "location": "A Pineapple Under the Sea"
+  },
+  {
+    "id": 2,
+    "name": "Mr. Krabs",
+    "image":
+      "https://s7.postimg.cc/9sgupmm7v/noun_1033328_cc.png",
+    "occupation": "Restaurant Owner",
+    "location": "A Giant Anchor"
+  },
+  {
+    "id": 3,
+    "name": "Squidward",
+    "image":
+      "https://s7.postimg.cc/skspt7qbv/noun_1071662_cc.png",
+    "occupation": "Cashier",
+    "location": "An Easter Island Head"
+  }
+]
