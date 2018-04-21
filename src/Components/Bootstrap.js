@@ -1,12 +1,7 @@
 import React from 'react';
 import Wrapper from "./Wrapper";
 import FriendCard from "./FriendCard";
-import friends from "./friends.json";
 
-const styles = {
-	fontSize: "18px",
-	color: "white",
-};
 
 // const cardStyle = {
 // 	background: "#fff",
@@ -39,17 +34,6 @@ const Bootstrap = () => (
   	</div>
   </div>
 </nav>
-	<Wrapper>
-    <FriendCard
-      image={friends[0].image}
-    />
-    <FriendCard
-      image={friends[1].image}
-    />
-    <FriendCard
-      image={friends[2].image}
-    />
-  </Wrapper>
  </div>
 );
 
